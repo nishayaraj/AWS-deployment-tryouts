@@ -22,7 +22,7 @@ In order to deploy to AWS, you have to take the following steps:
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:testing//////
 
 `yarn start`
 
